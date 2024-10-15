@@ -6,7 +6,3 @@ I'm a software engineer with a background from robotics, specializing in systems
 - 🖥 **Platforms & Tools**: Linux, Windows, Git, Bash
 - 🚀 **Recent Projects**: 
    - [LLM Story Collab](https://github.com/akselkristoffersen/llm-story-collab) - A real-time text-generator web app to co-write a story using your favourite Hugging Face LLM
-
-### Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/akselkristoffersen/)
-- [Website/Blog](https://akselkristoffersen.dev/)
