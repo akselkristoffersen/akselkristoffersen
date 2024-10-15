@@ -1,4 +1,4 @@
-## Welcome, I'm Aksel 👋
+## Heisann, I'm Aksel 👋
 I'm a software engineer with a background from robotics, specializing in systems development and real-time applications. I work with technologies like C++, Rust, and Python to build scalable, efficient solutions for complex problems.
 
 - 🌟 **Languages**: C++, Rust, Python, JavaScript
